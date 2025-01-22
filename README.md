@@ -15,7 +15,7 @@ Here's an overview of the files in this repository:
 ```
 World-Population-Data-Analysis/
 ├── README.md
-├── World_Population.pbix
+├── World_Population_analysis.pbix
 ├── World_Population_analysis.ipynb
 ├── total.csv
 ├── metadata.csv
