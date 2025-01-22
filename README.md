@@ -94,13 +94,13 @@ This project provided hands-on experience in:
 ### 1. Clone the Repository
 To clone the repository to your local machine, use the following command:
 ```bash
-git clone https://github.com/adityarathore622/World-Population-Data-Analysis.git
+git clone https://github.com/adityarathore622/World-Population-Analysis.git
 ```
 
 ### 2. Install Dependencies
 Ensure you have the required Python libraries installed. You can do this by creating a virtual environment and installing the dependencies using `pip`:
 ```bash
-cd World-Population-Data-Analysis
+cd World-Population-Analysis
 pip install -r requirements.txt
 ```
 
@@ -111,14 +111,14 @@ pip install -r requirements.txt
 - seaborn
 
 ### 3. Run the Jupyter Notebook
-After setting up your environment, you can open the Jupyter notebook `World_Population_data_analysis.ipynb`:
+After setting up your environment, you can open the Jupyter notebook `World_Population_analysis.ipynb`:
 ```bash
 jupyter World_Population_analysis.ipynb
 ```
 Navigate to the notebook and run the cells to see the analysis and visualizations.
 
 ### 4. Use Power BI (Optional)
-You can also open the `World_Population.pbix` file in Power BI to explore advanced visualizations based on the cleaned data.
+You can also open the `World_Population_Analysis.pbix` file in Power BI to explore advanced visualizations based on the cleaned data.
 
 ## ⭐ Stay Updated
 Don't forget to **star** this repository to stay updated with the latest developments and insights!
